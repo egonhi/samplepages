@@ -21,10 +21,10 @@ LOGGER = get_logger(__name__)
 def run():
     st.set_page_config(
         page_title="Hello to mysamples",
-        page_icon="👋",
+        page_icon":shark:",
     )
 
-    st.write("# Welcome to revised Samples page 👋")
+    st.write("# Welcome to revised Samples page ")
 
     st.sidebar.success("Select a demo above.")
 
