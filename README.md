@@ -1,4 +1,4 @@
-# Welcome to streamlit
+# Welcome to my samples base on Streamlit
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
